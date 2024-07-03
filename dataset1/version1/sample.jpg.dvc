@@ -3,3 +3,4 @@ outs:
   size: 5950
   hash: md5
   path: sample.jpg
+  isexec: true
