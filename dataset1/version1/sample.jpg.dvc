@@ -1,6 +1,5 @@
 outs:
 - md5: 9fc98718dd8a4dc9d6e97b8d0ce0f253
   size: 5950
-  isexec: true
   hash: md5
   path: sample.jpg
